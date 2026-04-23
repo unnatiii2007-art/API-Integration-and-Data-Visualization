@@ -37,10 +37,10 @@ The received JSON data is then parsed to extract relevant fields such as date, t
 
 The graph includes properly labeled axes, a title, and markers to make the visualization clear and easy to understand. Finally, the graph is saved as an image file and displayed on the screen.
 
-Output
-
-The output of this project is a line graph that shows temperature changes over a specific period. This visualization helps users quickly analyze weather patterns without manually reading raw data.
-
 Conclusion
 
 This project successfully demonstrates how APIs can be integrated into Python applications and how data visualization techniques can be applied to make data more understandable. It highlights the importance of combining programming with analytical tools to derive meaningful insights. Overall, the project provides a practical understanding of API usage and data representation, which are essential skills in modern software development and data analysis.
+
+#OUTPUT
+
+<img width="1920" height="991" alt="Image" src="https://github.com/user-attachments/assets/878d30d5-e152-4b57-842e-e02ff85ad9fb" />
